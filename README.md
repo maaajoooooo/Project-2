@@ -8,4 +8,4 @@ Montserrat Rodriguez Cepeda
 
 Maria Jose Gomez Gonzalez 
 
-Chosen path: 0, 1, 2b, 3b, 4b, 3c, 7. 
+Chosen path: 0, 1, 2b, 3b, 3c, 7. 
