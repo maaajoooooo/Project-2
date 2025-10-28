@@ -1,6 +1,7 @@
 import requests 
 import random
 
+
 #1 Fetch Data
 # Input the Pokemon name 
 pokemon_name = input("Enter a Pokemon name: ") 
